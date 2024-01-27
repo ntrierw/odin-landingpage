@@ -6,3 +6,7 @@
 .layout {
  flex: 1;
 }
+
+.header {
+ display: flex;
+}
