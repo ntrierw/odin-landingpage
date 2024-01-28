@@ -21,11 +21,21 @@ body {
   padding: 15px;
 }
 
+.hero {
+  background-color: #1F2937;
+  padding: 15px;
+}
+
 .nav {
   text-align: right;
   font-size: 18px;
   display: flex;
   flex-direction: row;
+}
+
+.hero p {
+  color: #E5E7EB;
+  font-size: 18px;
 }
 
 .nav a {
@@ -41,5 +51,9 @@ body {
 
 .logo {
   font-size: 24px;
+  color: #F9FAF8;
+}
+
+.hero h1 {
   color: #F9FAF8;
 }
