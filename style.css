@@ -29,6 +29,7 @@ body {
 .nav a {
   color: #E5E7EB;
   text-decoration: none;
+  vertical-align: bottom;
 }
 
 .logo {
