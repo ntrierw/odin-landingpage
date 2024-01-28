@@ -10,3 +10,7 @@
 .header {
  display: flex;
 }
+
+.nav {
+ text-align: right;
+}
