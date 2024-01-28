@@ -29,7 +29,8 @@ body {
 .nav a {
   color: #E5E7EB;
   text-decoration: none;
-  vertical-align: bottom;
+  /*vertical-align: bottom;*/
+  margin-top: 5px;
 }
 
 .logo {
