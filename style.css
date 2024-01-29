@@ -57,3 +57,8 @@ body {
 .hero h1 {
   color: #F9FAF8;
 }
+
+.info {
+  color: #1F2937;
+  text-align: center;
+}
